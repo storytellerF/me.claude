@@ -1,0 +1,27 @@
+{
+  "name": "general-coding-practices",
+  "version": "0.5.3-20261004053826",
+  "description": "Coding collaboration, debugging, verification, logging, and project documentation rules.",
+  "author": {
+    "name": "Local Coding Practices"
+  },
+  "license": "MIT",
+  "keywords": [
+    "coding",
+    "collaboration",
+    "debugging",
+    "file-organization",
+    "formatting",
+    "linting",
+    "logging",
+    "naming",
+    "privacy",
+    "project-rules",
+    "readme",
+    "root-cause",
+    "subagents"
+  ],
+  "skills": [
+    "./skills/"
+  ]
+}

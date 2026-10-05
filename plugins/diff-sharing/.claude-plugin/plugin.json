@@ -1,0 +1,19 @@
+{
+  "name": "diff-sharing",
+  "version": "0.2.2-20261004053826",
+  "description": "Generate Git or Difftastic code-diff sites for local preview or ngrok sharing.",
+  "author": {
+    "name": "Diff Sharing"
+  },
+  "license": "MIT",
+  "keywords": [
+    "diff",
+    "difftastic",
+    "git",
+    "ngrok",
+    "code-review"
+  ],
+  "skills": [
+    "./skills/"
+  ]
+}

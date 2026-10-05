@@ -1,0 +1,20 @@
+{
+  "name": "android-emulator-profile",
+  "version": "0.3.1-20261004053826",
+  "description": "Profile-driven Android AVD creation and Docker-friendly emulator startup.",
+  "author": {
+    "name": "Android Emulator Profile Maintainers",
+    "email": "fake@example.com",
+    "url": "https://github.com/storytellerF/me"
+  },
+  "homepage": "https://github.com/storytellerF/me",
+  "repository": "https://github.com/storytellerF/me",
+  "license": "UNLICENSED",
+  "keywords": [
+    "android",
+    "avd",
+    "emulator",
+    "docker",
+    "profile"
+  ]
+}

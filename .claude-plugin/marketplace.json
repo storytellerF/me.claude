@@ -1,0 +1,45 @@
+{
+  "name": "me",
+  "plugins": [
+    {
+      "name": "android-appium-device-lock",
+      "source": "./plugins/android-appium-device-lock"
+    },
+    {
+      "name": "android-emulator-profile",
+      "source": "./plugins/android-emulator-profile"
+    },
+    {
+      "name": "client-ui-best-practices",
+      "source": "./plugins/client-ui-best-practices"
+    },
+    {
+      "name": "diff-sharing",
+      "source": "./plugins/diff-sharing"
+    },
+    {
+      "name": "general-coding-practices",
+      "source": "./plugins/general-coding-practices"
+    },
+    {
+      "name": "kotlin-coding-practices",
+      "source": "./plugins/kotlin-coding-practices"
+    },
+    {
+      "name": "qemu-alpine-docker",
+      "source": "./plugins/qemu-alpine-docker"
+    },
+    {
+      "name": "recyclerview-best-practice",
+      "source": "./plugins/recyclerview-best-practice"
+    },
+    {
+      "name": "test-report-sharing",
+      "source": "./plugins/test-report-sharing"
+    }
+  ],
+  "owner": {
+    "name": "storytellerF"
+  },
+  "description": "Portable Android tooling, coding guidance, and report sharing plugins."
+}

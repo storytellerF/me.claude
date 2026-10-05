@@ -1,0 +1,17 @@
+{
+  "name": "android-appium-device-lock",
+  "version": "0.3.1-20261004053826",
+  "description": "Serialize Android UI and end-to-end test runs with a device-side adb file lock.",
+  "author": {
+    "name": "Local Android Practices"
+  },
+  "license": "MIT",
+  "keywords": [
+    "android",
+    "appium",
+    "adb",
+    "testing",
+    "e2e",
+    "lock"
+  ]
+}
