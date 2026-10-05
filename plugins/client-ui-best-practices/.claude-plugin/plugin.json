@@ -1,0 +1,18 @@
+{
+  "name": "client-ui-best-practices",
+  "version": "0.3.1-20261004053826",
+  "description": "Cross-platform Host architecture for client UI state, effects, lifecycle, and thread confinement.",
+  "author": {
+    "name": "Local developer"
+  },
+  "license": "MIT",
+  "keywords": [
+    "android",
+    "async",
+    "client",
+    "main-thread",
+    "sharedflow",
+    "stateflow",
+    "ui"
+  ]
+}
