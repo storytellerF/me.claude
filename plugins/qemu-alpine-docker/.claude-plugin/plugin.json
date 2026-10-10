@@ -1,7 +1,7 @@
 {
   "name": "qemu-alpine-docker",
-  "version": "0.4.0-20261001091000",
-  "description": "Persistent QEMU Alpine Docker VM for Windows-hosted Docker API and Testcontainers workflows.",
+  "version": "0.4.0-20261009155051",
+  "description": "Persistent QEMU Alpine Docker VM and status panel for Linux Docker containers and Windows.",
   "author": {
     "name": "QEMU Alpine Docker Maintainers",
     "url": "https://github.com/storytellerF/me"
@@ -14,6 +14,10 @@
     "alpine",
     "docker",
     "vm",
-    "windows"
-  ]
+    "windows",
+    "linux",
+    "kvm",
+    "tcg"
+  ],
+  "mcpServers": "./.mcp.json"
 }

@@ -2,8 +2,8 @@
   "name": "me",
   "plugins": [
     {
-      "name": "android-appium-device-lock",
-      "source": "./plugins/android-appium-device-lock"
+      "name": "android-device-lock",
+      "source": "./plugins/android-device-lock"
     },
     {
       "name": "android-emulator-profile",

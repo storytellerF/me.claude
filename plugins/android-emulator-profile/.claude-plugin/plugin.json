@@ -1,6 +1,6 @@
 {
   "name": "android-emulator-profile",
-  "version": "0.3.1-20261004053826",
+  "version": "0.4.0-20261001211958",
   "description": "Profile-driven Android AVD creation and Docker-friendly emulator startup.",
   "author": {
     "name": "Android Emulator Profile Maintainers",
@@ -16,5 +16,6 @@
     "emulator",
     "docker",
     "profile"
-  ]
+  ],
+  "mcpServers": "./.mcp.json"
 }
