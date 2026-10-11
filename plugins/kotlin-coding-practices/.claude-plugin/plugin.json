@@ -1,7 +1,7 @@
 {
   "name": "kotlin-coding-practices",
-  "version": "0.1.2-20261010204345",
-  "description": "Coroutine-first and immutable-by-default Kotlin coding practices.",
+  "version": "0.1.3-20261011123108",
+  "description": "Coroutine-first, immutable Kotlin coding practices with explicit state models.",
   "author": {
     "name": "Local Kotlin Practices"
   },
