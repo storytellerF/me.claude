@@ -1,7 +1,7 @@
 {
   "name": "general-coding-practices",
-  "version": "0.5.5-20261016225904",
-  "description": "Coding collaboration, debugging, verification, logging, and project documentation rules.",
+  "version": "0.6.0-20261017115329",
+  "description": "Coding collaboration, control flow, state modeling, concurrency, verification, and documentation rules.",
   "author": {
     "name": "Local Coding Practices"
   },
@@ -19,7 +19,10 @@
     "project-rules",
     "readme",
     "root-cause",
-    "subagents"
+    "subagents",
+    "state-machines",
+    "immutability",
+    "structured-concurrency"
   ],
   "skills": [
     "./skills/"

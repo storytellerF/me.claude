@@ -22,10 +22,6 @@
       "source": "./plugins/general-coding-practices"
     },
     {
-      "name": "kotlin-coding-practices",
-      "source": "./plugins/kotlin-coding-practices"
-    },
-    {
       "name": "qemu-alpine-docker",
       "source": "./plugins/qemu-alpine-docker"
     },
