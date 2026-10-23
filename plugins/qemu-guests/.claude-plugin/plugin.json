@@ -1,0 +1,29 @@
+{
+  "name": "qemu-guests",
+  "version": "0.7.0-20261022143109",
+  "description": "Concurrent QEMU Appium test guests with unattended provisioning and an independent Alpine Docker backend.",
+  "author": {
+    "name": "QEMU Guests Maintainers",
+    "url": "https://github.com/storytellerF/me"
+  },
+  "homepage": "https://github.com/storytellerF/me",
+  "repository": "https://github.com/storytellerF/me",
+  "license": "UNLICENSED",
+  "keywords": [
+    "qemu",
+    "alpine",
+    "docker",
+    "vm",
+    "windows",
+    "linux",
+    "kvm",
+    "tcg",
+    "ubuntu",
+    "macos",
+    "unattended",
+    "whpx",
+    "appium",
+    "testing"
+  ],
+  "mcpServers": "./.mcp.json"
+}
