@@ -22,8 +22,8 @@
       "source": "./plugins/general-coding-practices"
     },
     {
-      "name": "qemu-alpine-docker",
-      "source": "./plugins/qemu-alpine-docker"
+      "name": "qemu-guests",
+      "source": "./plugins/qemu-guests"
     },
     {
       "name": "recyclerview-best-practice",
