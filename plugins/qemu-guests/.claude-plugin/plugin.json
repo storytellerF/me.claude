@@ -1,7 +1,7 @@
 {
   "name": "qemu-guests",
-  "version": "0.10.1-20261028150543",
-  "description": "Concurrent QEMU Appium test guests with unattended provisioning and an independent Alpine Docker backend.",
+  "version": "0.10.2-20261030122357",
+  "description": "Coordinate desktop tests, tests beyond the host environment, and Docker test environments using reusable QEMU guests and an independent backend.",
   "author": {
     "name": "QEMU Guests Maintainers",
     "url": "https://github.com/storytellerF/me"
