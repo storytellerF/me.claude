@@ -1,7 +1,7 @@
 {
   "name": "recyclerview-best-practice",
-  "version": "0.3.4-20261030120429",
-  "description": "Android RecyclerView guidance for adapters, diffing, paging, state, prepend anchors, and performance.",
+  "version": "0.3.5-20261107120055",
+  "description": "Android RecyclerView \u7684 adapter\u3001\u5dee\u5f02\u8ba1\u7b97\u3001\u5206\u9875\u3001\u72b6\u6001\u3001\u524d\u63d2\u951a\u70b9\u548c\u6027\u80fd\u6307\u5f15\u3002",
   "author": {
     "name": "Local Android Practices"
   },

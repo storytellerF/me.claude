@@ -1,7 +1,7 @@
 {
   "name": "android-device-lock",
-  "version": "0.5.2-20261030120429",
-  "description": "Project-independent adb device locking for Android tests across projects and frameworks.",
+  "version": "0.5.3-20261107120055",
+  "description": "\u8de8\u9879\u76ee\u3001\u8de8\u6d4b\u8bd5\u6846\u67b6\u7684 Android adb \u8bbe\u5907\u9501\uff0c\u72ec\u7acb\u4e8e\u76ee\u6807\u9879\u76ee\u8fd0\u884c\u3002",
   "author": {
     "name": "Local Android Practices"
   },

@@ -1,7 +1,7 @@
 {
   "name": "general-coding-practices",
-  "version": "0.6.3-20261030120429",
-  "description": "Coding collaboration, control flow, state modeling, concurrency, verification, and documentation rules.",
+  "version": "0.6.4-20261107120055",
+  "description": "\u6db5\u76d6\u5f00\u53d1\u534f\u4f5c\u3001\u63a7\u5236\u6d41\u3001\u72b6\u6001\u5efa\u6a21\u3001\u5e76\u53d1\u3001\u9a8c\u8bc1\u548c\u6587\u6863\u7ef4\u62a4\u7684\u89c4\u5219\u3002",
   "author": {
     "name": "Local Coding Practices"
   },
